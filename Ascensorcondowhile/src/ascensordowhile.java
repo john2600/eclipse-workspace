@@ -8,6 +8,7 @@ public class ascensordowhile {
 	int pisoactual=1;
     int pisosubir;
     
+    
 	while (pisoactual<=pisoesperado)
 		
 		

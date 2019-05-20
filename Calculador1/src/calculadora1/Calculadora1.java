@@ -74,8 +74,8 @@ public class Calculadora1 {
 		 
 		{ 
 		dividir=numero1/i;
-		 System.out.println("La multiplicacion es igual a "+dividir+"en la iteracion"+i);
-		 i=i+1;
+		 
+		 i=i+2;
 		
 }
 
